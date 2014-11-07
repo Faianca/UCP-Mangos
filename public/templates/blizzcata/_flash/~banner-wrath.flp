@@ -1,0 +1,6 @@
+<flash_project name="~banner-wrath" version="1">
+	<project_file filetype="fla" path="./~banner-wrath.fla" profile=""/>
+	<project_file filetype="as" path="./ButtonLearn.as"/>
+	<project_file filetype="as" path="./ButtonPlay.as"/>
+	<project_file filetype="as" path="./classes/bannerTwoButtons.as"/>
+</flash_project>

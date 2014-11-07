@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.newsheader .facebookicon a  { display:none; }
+
+.newsheader .latestnews { background: url(../../images/lang/en-gb/frontpage/latestnews.png); }
+a.dl_btn:link, a.dl_btn:active, a.dl_btn:visited  {background-image:url(../../images/blizzcast/en-GB/download_button.gif);}
+
+/* Menu navigation */
+.navigation .bar a {background: url(../../images/lang/en-gb/nav-bar.gif);}
+
+/* Community Contest index page */
+	.featured_list .ft_list_title {line-height:1;}
+	.featured_list .ft_list_int q {padding-top:35px;}
+	
+	
+/* Landing Page */	
+	.games-landing .underdev .standardbox .middlebar .backgroundthreelines a.sc2 {width:300px; height: 170px; background: url(../../images/lang/en-gb/gamecard-underdev-sc2.jpg); display: block; }
+	.games-landing .allgames .standardbox .middlebar .backgroundthree a.sc1 {width:300px; height: 135px; background: url(../../images/lang/en-gb/gamecard-games-sc1.jpg); display: block; }
+	.games-landing .allgames .standardbox .middlebar .backgroundthree a.d2 {width:300px; height: 135px; background: url(../../images/lang/en-gb/gamecard-games-d2.jpg); display: block; }
+	
+	/* Fan Art rules */
+	
+	.btn-agree {background-image: url(../../images/lang/en-gb/btn-agree.jpg);}
+	.btn-disagree {background-image: url(../../images/lang/en-gb/btn-disagree.jpg);}
+	
+	
+/* SC2 Purchase Buttons */
+.sc2 #purchase-buttons-all {display: block;}

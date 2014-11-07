@@ -1,0 +1,77 @@
+<?php
+   /**
+   * English lang
+   *
+   * @Website / User Cpanel for Mangos/Trinity etc..
+   * @copyright 2010 Jorge Faianca
+   * @version $id: englishlang.php,v 2.0 
+   */
+   
+$lang = array(
+"home" => "Home",
+"editprofile" => "Edit Profile",
+"editpage" => "Edit Page",
+"logout" => "Logout",
+"signup" => "Signup",
+"login" => "Login",
+"buttons" => "Buttons",
+"pleaselogin" => "Please Login",
+"enteryouraccount" => " to enter your account!",
+"userlogin" => "USER LOGIN",
+"accountusername" => "Account Username",
+"accountpassword" => "Account Password",
+"rememberme" => "Remember Me:",
+"notyetregistered" => "Not Yet Registered?",
+"forgotyourpassword" => "Forgot Your Password?",
+"recoverhere" => "Recover Here",
+"loginnow" => "Login Now",
+"accountactivated" => "Thank you. Your account is now active. You may now log in.",
+"sorrynomore" => "Sorry no more registrations allowed!",
+"become" => "Become",
+"registered" => "Registered Member",
+"pleasefill" => "Please fill out the form below to become registered member. All fieds are required.",
+"userregistration" => "User Registration",
+"passwordrepeat" => "Password Repeat:",
+"yourmail" => "Your Email:",
+"entercaptcha" => "Enter Capcha Code:",
+"backtologin" => "Back to login page",
+"usernameshort" => "Username is too short",
+"name" => "Name",
+"url" => "Url",
+"customize" => "Customize",
+"selectbuttoncolor" => "Select Button Color",
+"yourlogo" => "Your Logo",
+"selectbackground" => "Select Background Color",
+"morelinks" => "More Links",
+"singlelink" => "Single Link",
+"manage" => "Manage",
+"youraccount" => "Your Account",
+"profilechange" => "Here you can make changes to your profile.",
+"passwordempty" => "If you don't need to change password leave it empty.",
+"editaccount" => "User Account Edit",
+"firstlast" => "First and Last Name: ",
+"newsletter" => "Receive Newsletter:",
+"yes" => "Yes",
+"no" => "No",
+"cost" => "Costs",
+"points" => "Points",
+"submit" => "Submit",
+"nopoints" => "You dont have enough Points",
+"armory" => "Armory",
+"more" => "More",
+"tools" => "Tools",
+"news" => "News",
+"stats" => "Statistics",
+"forum" => "Forum",
+"connect" => "Connect",
+"arenaladder" => "Arena Ladder",
+"banlist" => "Ban list",
+"topkills" => "Top Kills",
+"account" => "My Account",
+"serverinfo" => "Server Info",
+"admin" => "Admin",
+"gmcontrol" => "Gm Control",
+"usercontrol" => "User Control"
+);
+
+?>

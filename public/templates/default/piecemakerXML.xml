@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Settings>
+    <imageWidth>940</imageWidth>
+    <imageHeight>400</imageHeight>
+    <segments>13</segments>
+    <tweenTime>5</tweenTime>
+    <tweenDelay>0.1</tweenDelay>
+    <tweenType>easeInOutElastic</tweenType>
+    <zDistance>400</zDistance>
+    <expand>6</expand>
+    <innerColor>0x666666</innerColor>
+    <textBackground>0xdedede</textBackground>
+    <shadowDarkness>100</shadowDarkness>
+    <textDistance>25</textDistance>
+    <autoplay>3</autoplay>
+  </Settings>
+  <Image Filename="slide1.jpg">
+  
+  </Image>
+  <Image Filename="slide2.jpg">
+  </Image>
+  <Image Filename="slide3.jpg">
+  </Image>
+  <Image Filename="slide4.jpg">
+  </Image>
+</Piecemaker>

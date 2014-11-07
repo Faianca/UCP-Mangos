@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<frontpage>	
+	<banners defaultbanner="1">
+		<banner src="frontpage/en-gb/banner-cataclysm.swf" logo="frontpage/common/logo-cataclysm.png">
+			<button id="1" href="http://www.wow-europe.com/cataclysm/?locale=en_GB"/>
+			<button id="2" href="/en-gb/games/videos/index.html?v=cataclysm:features"/>			
+		</banner>
+		<banner src="frontpage/en-gb/banner-sc2.swf" logo="frontpage/common/logo-sc2.png">
+			<button id="1" href="/en-gb/games/sc2/index.html"/>
+			<button id="2" href="/en-gb/games/videos/index.html?v=sc2:teaser"/>			
+		</banner>		
+		<banner src="frontpage/en-gb/banner-d3.swf" logo="frontpage/common/logo-d3.png">
+			<button id="1" href="http://eu.blizzard.com/diablo3/?rhtml=y&locale=en_GB"/>
+			<button id="2" href="/en-gb/games/videos/index.html?v=d3:teaser"/>			
+		</banner>			
+		<banner src="frontpage/en-gb/banner-wrath.swf" logo="frontpage/common/logo-wrath.png">
+			<button id="1" href="/en-gb/games/wrath/index.html"/>
+			<button id="2" href="/en-gb/games/videos/index.html?v=wrath:cinematic"/>			
+		</banner>
+		<banner src="frontpage/en-gb/banner-blizzcon.swf" logo="frontpage/common/logo-blizzcon.png">
+			<button id="1" href="http://www.blizzcon.com"/>
+			<button id="2" href=""/>	
+		</banner> 		
+	</banners>
+</frontpage>
+
